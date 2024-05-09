@@ -1,0 +1,1 @@
+scp -r ./public/* root@182.92.124.76:/var/www
