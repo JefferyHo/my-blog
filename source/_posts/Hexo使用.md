@@ -7,7 +7,7 @@ tags:
   - hexo-theme-butterfly
 categories:
   - web前端
-cover: https://hexo.io/logo.svg
+cover: https://cdn.pixabay.com/photo/2015/07/17/22/43/student-849822_1280.jpg
 
 ---
 
